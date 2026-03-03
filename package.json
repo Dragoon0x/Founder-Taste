@@ -1,0 +1,43 @@
+{
+  "name": "founder-taste",
+  "version": "0.1.0",
+  "description": "Agent skills for design taste — for founders building without a designer. Typography, color, layout, landing pages, product feel, and AI tool workflows.",
+  "type": "module",
+  "bin": {
+    "founder-taste": "./bin/cli.mjs"
+  },
+  "keywords": [
+    "agent-skills",
+    "ai",
+    "design",
+    "taste",
+    "founder",
+    "ui",
+    "ux",
+    "landing-page",
+    "typography",
+    "color",
+    "layout",
+    "v0",
+    "cursor",
+    "lovable",
+    "bolt",
+    "claude-code",
+    "windsurf",
+    "vibe-coding",
+    "design-system",
+    "product-design",
+    "indie-hacker",
+    "saas",
+    "startup"
+  ],
+  "author": "Dragoon",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Dragoon0x/founder-taste"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
